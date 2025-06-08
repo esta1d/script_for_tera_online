@@ -1,0 +1,15 @@
+{
+    "name": "Anywhere",
+    "author": "bitchyouthought",
+    "description": "Use most stuff anywhere",
+    "version": "1.0",
+    "options": {
+        "niceName": "AW",
+        "guiName": "Anywhere",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsAutosaveOnClose": true,
+        "reloadable": true
+    }    
+}

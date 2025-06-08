@@ -1,0 +1,22 @@
+This is a quick overview of all available commands:
+
+bank			Opens the Banker.
+gbank			Opens the Guild Bank.
+petbank			Opens the Special Storage (bank from pets).
+wardrobe		Opens the Wardrobe.
+angler			Opens the Angler Token Vendor
+fishsup			Opens the Fishing Supplies.
+merc		    Opens the Merchant.
+magsup		    Opens the Magic Materials.
+crystal			Opens the Crystal Merchant.
+spec		    Opens the Specialty Store.
+vgsup			Opens the Vanguard Initiative Quartermaster.
+vgcrys			Opens the Vanguard Initiative Crystal Merchant.
+bellic		    Opens the Bellicarium Quartermaster.
+hustler			Opens the Hustler.
+elleon			Opens the Elleon Token Store.
+guardian		Opens the Guardian Legion Credit Store.
+mmv			    Opens the Mystery Merchant in Velika.
+mmh			    Opens the Mystery Merchant in Highwatch.
+mmk			    Opens the Mystery Merchant in Kaiator.
+mma			    Opens the Mystery Merchant in Allemantheia.

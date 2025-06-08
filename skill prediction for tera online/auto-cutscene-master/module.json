@@ -1,0 +1,17 @@
+{
+  "author": "seraphinush . baldera-mods",
+  "conflict": ["auto-qol","skip-cutscene"],
+  "description": "tera-toolbox module to automatically skip cutscenes",
+  "disableAutoUpdate": false,
+  "donationUrl": "https://www.paypal.me/seraphinush",
+  "name": "auto-cutscene",
+  "options": {
+    "reloadable": true,
+    "settingsVersion": 1,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings.js"
+  },
+  "servers": ["https://raw.githubusercontent.com/seraphinush-gaming/auto-cutscene/master/"],
+  "supportUrl": "https://github.com/seraphinush-gaming/auto-cutscene/blob/master/README.md",
+  "version": "1.1f.09.v99.02"
+}
