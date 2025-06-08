@@ -1,0 +1,11 @@
+{
+  "servers": [
+    "https://www.tera.azur-cosplay.com/ftp/menma/"
+  ],
+  "drmKey": "5D937697JY897783V",
+  "name": "ping-remover",
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-toolbox-mods/library/master/module.json",
+    "ping": "https://www.tera.azur-cosplay.com/ftp/ping/module.json"
+  }
+}
